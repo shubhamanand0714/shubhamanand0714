@@ -7,9 +7,12 @@
 
 
 <h2 align="left">A something about me</h2>
-- Currently learning C++
-- Looking forward to learn frontend development
-- Eager ML enthusiast
+
+- Currently learning Java and Data Structures  
+- Interested in Backend & Full Stack Development  
+- Exploring Machine Learning basics  
+- Passionate about building real-world projects  
+
 
 
 
